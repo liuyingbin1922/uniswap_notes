@@ -59,3 +59,5 @@ const config: HardhatUserConfig = {
 network 是要部署的网络，部署的网络是智能合约要发布的地址。
 
 ### interface 搭建
+
+借助uniswap提供的interface工程，执行可视化的token交易。对应的代码见uniswap_interface 工程部分。
